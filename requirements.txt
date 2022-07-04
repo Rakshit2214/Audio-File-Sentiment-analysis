@@ -1,4 +1,4 @@
-﻿altgraph==0.17.2
+altgraph==0.17.2
 backports.zoneinfo==0.2.1
 beautifulsoup4==4.11.1
 certifi==2022.6.15
@@ -21,7 +21,9 @@ MarkupSafe==2.1.1
 modulegraph==0.19.2
 nltk==3.7
 packaging==21.3
+pipwin==0.5.2
 py2app==0.28.2
+PyAudio==0.2.11
 pyjsparser==2.7.1
 pyparsing==3.0.9
 PyPrind==2.11.3
